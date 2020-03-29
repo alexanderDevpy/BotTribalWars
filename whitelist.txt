@@ -1,0 +1,10 @@
+# You can whitelist villages for farming here.
+# They will be added as farm targets regardless of any other settings (like max points or attack players).
+# Villages listed here get a higher priority.
+# Changes will take effect after the next database update (max 3 days).
+# 1 village per line.
+# Format: X|Y
+480|469
+478|470
+483|474
+473|470

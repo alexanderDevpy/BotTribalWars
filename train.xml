@@ -1,0 +1,23 @@
+<!-- start of comment
+	Here you can tell  which units to train. This comand will be given once evry 30 min only if the rss are greather than buffer
+	Buffer leaves a number of resources for other tasks like building.
+	
+end of comment -->
+<train>
+	<template>
+		<units>
+			<spear>1</spear>
+			<sword>2</sword>
+			<axe>3</axe>
+			<light>4</light>
+			<archer>5</archer>
+			<spy>6</spy>
+		</units>
+		<buffer>
+			<wood>400</wood>
+			<stone>500</stone>
+			<iron>500</iron>
+			<pop>0</pop>
+		</buffer>
+	</template>
+</train>

@@ -1,0 +1,15 @@
+<!-- start of comment
+	You can tell which units to use per farm attack here.
+end of comment -->
+<farm>
+  <units>
+    <spear>150</spear>
+    <sword>40</sword>
+  </units>
+  <units>
+    <axe>100</axe>
+  </units>
+  <units>
+    <light>4</light>
+  </units>
+</farm>
