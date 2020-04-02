@@ -17,7 +17,7 @@ This is a simple tribalwars bot made in python just to learn more about coding. 
 ## How To Use
 - Run from cmd `main.py`
 - After start a login page will show
-- ![Login](img/login page.png)
+- ![Login](img/login_page.png)
 - You need to use tribalwars account and word ex: `ro72`
 - At settings page you need to check what to do `can select multiple actions`
 - ![Settings](img/setting.png)
